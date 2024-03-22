@@ -1,1 +1,1 @@
-[![Click To Visit Production Site](https://debojitsantra.vercel.app)
+[Click To Visit Production Site](https://debojitsantra.vercel.app)
