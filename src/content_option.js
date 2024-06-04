@@ -71,17 +71,17 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://debojitsantra.github.io/debojitsantra2/assets/pro2.jpg",
+        img: "https://raw.githubusercontent.com/debojitsantra/debojitsantra.github.io/master/src/assets/images/wordcounter.jpg",
         description: "A web app to count words",
         link: "https://debojitsantra.github.io/wordcounter",
     },
     {
-        img: "https://raw.githubusercontent.com/debojitsantra/debojitsantra2/main/assets/instad.jpg",
+        img: "https://raw.githubusercontent.com/debojitsantra/debojitsantra.github.io/master/src/assets/images/instad.jpg",
         description: "Instagram downloader in python",
         link: "https://debojitsantra.github.io/instad",
     },
     {
-        img: "https://debojitsantra.github.io/debojitsantra2/assets/pro3.jpg",
+        img: "https://raw.githubusercontent.com/debojitsantra/debojitsantra.github.io/master/src/assets/images/itds.jpg",
         description: "Port Scanning Tool",
         link: "https://debojitsantra.github.io/itds",
     },
