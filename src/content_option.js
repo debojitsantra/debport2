@@ -105,7 +105,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/debojitsantra",
     mastodon: "https://mastodon.social/@debojitsantra",
-    linkdin: "https://www.linkedin.com/in/debojitsantra",
+    linkedin: "https://www.linkedin.com/in/debojitsantra",
     quora: "https://www.quora.com/profile/Debojit-Santra-3"
         
     
