@@ -86,7 +86,7 @@ const dataportfolio = [{
         link: "https://debojitsantra.github.io/itds",
     },
 {
-        img: "https://aimaged.vercel.app/Generated/Female/g1.png",
+        img: "https://raw.githubusercontent.com/debojitsantra/debojitsantra.github.io/master/src/assets/images/aimage.jpg",
         description: "Ai Image Gallery",
         link: "https://debojitsantra.github.io/aiimages",
     },       
