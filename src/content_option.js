@@ -11,7 +11,7 @@ const introdata = {
         second: "I love math, physics & computer",
         third: "I devolop in c & python ",
     },
-    description: ":)",
+    description: "There is nothing about me.",
     your_img_url: "https://raw.githubusercontent.com/debojitsantra/debojitsantra.github.io/master/src/assets/images/ghhh.png",
 };
 
@@ -33,7 +33,7 @@ const skills = [{
     },
     {
         name: "C",
-        value: 30,
+        value: 34,
     },
     {
         name: "Prompt Engineering",
@@ -88,7 +88,7 @@ const dataportfolio = [{
 {
         img: "https://raw.githubusercontent.com/debojitsantra/debojitsantra.github.io/master/src/assets/images/aimage.jpg",
         description: "Ai Image Gallery",
-        link: "https://debojitsantra.github.io/aiimages",
+        link: "https://aimaged.vercel.app",
     },       
 ];
 
